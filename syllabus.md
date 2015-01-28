@@ -42,18 +42,29 @@ The app development project will start with a series of idea generation exercise
 
 ### Readings 
 
-The required text for the course is:
+The **required** text for the course is:
 
+```
 Keur, Christian, Aaron Hillegass, and Joe Conway.
 iOS Programming: The Big Nerd Ranch Guide. 4th ed.
 Atlanta, GA: Big Nerd Ranch, 2014.
+```
 
-An optional text is:
+Available on [amazon](http://www.amazon.com/iOS-Programming-Ranch-Guide-Guides-ebook/dp/B00IG8TGZ8/) (the kindle version on the OSX kindle app works well) and a copy is also at Dibner on course reserve
 
+---
+
+An **optional** text is:
+
+```
 Hillegass, Aaron.
 Objective-C Programming: The Big Nerd Ranch Guide.
 Atlanta, GA: Big Nerd Ranch, 2011.
+```
 
+Available on [amazon](http://www.amazon.com/Objective-C-Programming-Ranch-Guide-Guides-ebook/dp/B00GSRITM0/) if you choose to use it, and a copy is also at Dibner on course reserve
+
+---
 Useful resources:
 
 * [https://developer.apple.com](https://developer.apple.com)
