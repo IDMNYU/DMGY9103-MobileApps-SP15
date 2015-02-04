@@ -32,4 +32,6 @@
 
 As you go through the book, you'll be coding along with the examples in the book. As a general rule, any time the author writes something like "now try running your code, it should work", and your code works, it is time to commit. Commit with the following commands:
 
-* In Progress ;)
+* If you want to push up everything you've done, mark everything for commiting with `git add .`
+* `git commit -m 'finished chapter 1, page 12'`
+* `git push origin master`
