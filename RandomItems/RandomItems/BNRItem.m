@@ -10,6 +10,34 @@
 
 @implementation BNRItem
 
+-(void)dealloc{
+    NSLog(@"Destroyed: %@",self);
+}
+-(void)setContainedItem:(BNRItem *)containedItem{
+    _containedItem = containedItem;
+    self.containedItem.container = self;
+}
+
+/*
+-(void)setContainedItem:(BNRItem *)item
+{
+    _containedItem = item;
+    item.containedItem =self;
+}
+
+-(BNRItem *)containedItem{
+    return _containedItem;
+}
+
+-(void)setContainer:(BNRItem *)item{
+    _container = item;
+}
+-(BNRItem *)container
+{
+    return _container;
+}
+
+
 -(void)setItemName:(NSString *)str{
     _itemName = str;
 }
@@ -38,10 +66,12 @@
     return _dateCreated;
 }
 
+
 -(NSString *)description{
     NSString *descriptionString = [[[NSString alloc]init] initWithFormat:@"%@ (%@): Worth $%d, recorded on %@", self.itemName, self.serialNumber,self.valueInDollars, self.dateCreated];
     return descriptionString;
 }
+*/ 
 
 +(instancetype)randomItem
 {
