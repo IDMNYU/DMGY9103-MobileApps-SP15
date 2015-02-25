@@ -4,10 +4,9 @@
 #### Integrated Digital Media • Technology, Culture & Society Department
 
 
-
     Chris Ricca, chris.ricca@nyu.edu • Spring 2015 • Wednesdays 6:30-9:20PM • 2MTC MAGNET 817 • 3 credit hrs
     Office hours by appointment • Office: 2MTC MAGNET 875
-   
+
 
 ### Course Pre-requisites
 Students should have experience with a programming language beyond a basic level.
@@ -33,14 +32,14 @@ At a graduate level, students will:
 gain knowledge of professional practices and organizations by developing their verbal, visual, and written communication for documentation and presentation, exhibition and promotion, networking, and career preparation.
 * develop collaboration skills to actively and effectively work in a team or group.
 
-### Course Structure 
+### Course Structure
 Students in this course will engage in two main tracks of study: learning technical skills via weekly exercises, and a prototype driven app development project.
 
 To learn the technical skills required to make an iOS app, students will be following the iOS textbook from The Big Nerd Ranch. Students will read and code along with 2 chapters / week as well as watch videos to help support the material. Class time will be reserved for getting answers to questions brought up in the readings, as well as completing select exercises from the book with access to help from fellow students and the instructor.
 
 The app development project will start with a series of idea generation exercises, prototypes, critiques, and in class workshops. In general, students will be encouraged to validate their ideas in a lightweight way before committing to building them in code for the final project. During the last half of the course, students will be working in teams of two to fully develop their apps in code.
 
-### Readings 
+### Readings
 
 The **required** text for the course is:
 
@@ -74,7 +73,7 @@ Useful resources:
 * [http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html)
 
 
-### Course requirements 
+### Course requirements
 Students will be expected to complete the reading and the complete the accompanying coding examples (and push them up to a git repository) from the book before class. In addition, students will submit any questions from the chapter 24 hours before the class in which the readings are due, so that the instructor can review common issues during the first part of class.
 
 **App Prototype 1** - March 4th, 2015 - 10%
@@ -93,7 +92,22 @@ In teams of up to 2 people, build an app based on one of the prototypes you have
 
 Half the class participation grade (10%) will be based on in class discussion and the completion of smaller in class assignments. The other half will be based on keeping up with the readings.
 
-### Schedule 
+
+### Weekly Requirements
+
+**Tuesdays by 6:30pm**
+
+* Email questions from readings to <chris.ricca@nyu.edu> (or email saying you don't have any questions).
+
+**Wednesdays by 6:30pm** (class)
+
+* Reading & text book work for the week's chapter (on 2/11, example exercises for chapters 3 and 4) excluding the challenges. Feel free to complete challenges if you are able, but they will not be due until the next week.
+
+* Challenges for the previous week's challenges (this is to give you an opportunity to ask questions about fundamental concepts in class on particularly difficult challenges)
+
+
+
+### Schedule
 
 
 ##### 1/28	Course Introduction - Getting Xcode & git setup
@@ -159,9 +173,6 @@ Half the class participation grade (10%) will be based on in class discussion an
 ##### 5/6	Final Projects Due - Presentations in Class
 
 
-
 Moses Center Statement of Disability
 
 If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu.  You must be registered with CSD to receive accommodations.  Information about the Moses Center can be found at www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
-
-
