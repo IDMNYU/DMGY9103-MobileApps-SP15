@@ -66,11 +66,17 @@ Available on [amazon](http://www.amazon.com/Objective-C-Programming-Ranch-Guide-
 ---
 Useful resources:
 
-* [https://developer.apple.com](https://developer.apple.com)
+* [Apple Developer Portal - https://developer.apple.com](https://developer.apple.com)
 * [http://www.objc.io](http://www.objc.io)
-* [http://asciiwwdc.com](http://asciiwwdc.com)
 * [http://ios.devtools.me](http://ios.devtools.me)
 * [http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html)
+
+Apple World Wide Developer Conference Videos:
+
+* WWDC videos for [2014](https://developer.apple.com/videos/wwdc/2014/) and [2013](https://developer.apple.com/videos/wwdc/2013/)
+* [ASCII WWDC](http://asciiwwdc.com) - searchable video transcripts
+* The [WWDC app for iOS](https://itunes.apple.com/us/app/wwdc/id640199958) lets you download and view WWDC videos on your iPhone or iPad. ( good for the subway )
+
 
 
 ### Course requirements
@@ -105,6 +111,9 @@ Half the class participation grade (10%) will be based on in class discussion an
 
 * Challenges for the previous week's challenges (this is to give you an opportunity to ask questions about fundamental concepts in class on particularly difficult challenges)
 
+* Additional materials are **not** required reading / watching. Some of the videos or articles are meant to reinforce basic concepts or highlight new technologies in iOS 8, while anything marked **advanced** is meant to go beyond the scope of the course for interested students (and might be useful for your projects)
+
+
 
 
 ### Schedule
@@ -131,6 +140,11 @@ Half the class participation grade (10%) will be based on in class discussion an
 * 7 - Delegation and Text Input
 * 8 - UITableView and UITableViewController
 
+Additional Material:
+
+* [WWDC '14 - Core iOS Application Architectural Patterns](https://developer.apple.com/videos/wwdc/2014/?include=224#224) ( [transcript](http://asciiwwdc.com/2014/sessions/224) )
+
+
 ##### 3/4 	UINavigation Controller
 * 9 - Editing UITableView
 * 10 - UINavigationController
@@ -140,20 +154,42 @@ Half the class participation grade (10%) will be based on in class discussion an
 * 12 - Touch Events and UIResponder
 * **Assignment Due: App Prototype 1**
 
+Additional Material:
+
+* [WWDC '14 - Prototyping: Fake It Till You Make It](https://developer.apple.com/videos/wwdc/2014/#223) ( recommended for App Prototype 1 assignment ) ( [transcript](http://asciiwwdc.com/2014/sessions/223) )
+* [WWDC '14 - **Advanced** Scrollviews and Touch Handling Techniques](https://developer.apple.com/videos/wwdc/2014/?include=235#235) ( [transcript](http://asciiwwdc.com/2014/sessions/235) )
+
 
 ##### 3/18 	Auto Layout
 * 13 - UIGestureRecognizer and UIMenuController
 * 14 - Debugging Tools
 * 15 - Introduction to Auto Layout
 
+Additional Materials:
+
+* [WWDC '13 - **Advanced** Debugging with LLDB](https://developer.apple.com/videos/wwdc/2013/?include=413#413) ( Xcode 5 but relevent ) ( [transcript](http://asciiwwdc.com/2013/sessions/413) )
+
+
+
 ##### 3/25 	Modal View Controllers
 * 16 - Auto Layout: Programmatic Constraints
 * 17 - Autorotation, Popover Controllers, and Modal View Controllers
+
+Additional Materials:
+
+* [WWDC '14 - A Look Inside Presentation Controllers](https://developer.apple.com/videos/wwdc/2014/?include=228#228) ( Highlights updated UIPopoverPresentationController in iOS8. Rest of the talk is an **advanced** look into custom presented view controllers ) ( [transcript](http://asciiwwdc.com/2014/sessions/228) )
+
 
 ##### 4/1 	UITableViewCell
 * 18 - Saving, Loading, and Application States
 * 19 - Subclassing UITableViewCell
 * **Assignment Due: App Prototype 2**
+
+Additional Materials:
+
+* [WWDC '14 - What's New in Table and Collection Views](https://developer.apple.com/videos/wwdc/2014/?include=226#226) ( Cells can now resize automatically using Auto Layout in iOS 8 ) ( [transcript](http://asciiwwdc.com/2014/sessions/226) )
+
+
 
 ##### 4/8 	Saving Data, Part 1
 * 21 - Web Services and UIWebView
@@ -162,6 +198,11 @@ Half the class participation grade (10%) will be based on in class discussion an
 ##### 4/15	Saving Data, Part 2
 * 24 - State Restoration
 * 26 - NSUserDefaults
+
+Additional Materials:
+
+* [**Advanced** iOS Application Architecture and Patterns](https://developer.apple.com/videos/wwdc/2014/?include=229#229) ( [transcript](http://asciiwwdc.com/2014/sessions/229) )
+
 
 ##### 4/22 	UIStoryboard
 * 27 - Controlling Animations
