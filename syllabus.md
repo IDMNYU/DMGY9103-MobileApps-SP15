@@ -167,7 +167,7 @@ Additional Material:
 
 Additional Material:
 
-* [WWDC '14 - Taking Control of Auto Layout in Xcode 5](https://developer.apple.com/videos/wwdc/2013/?include=406#406) ( [transcript](http://asciiwwdc.com/2013/sessions/406) )
+* [WWDC '13 - Taking Control of Auto Layout in Xcode 5](https://developer.apple.com/videos/wwdc/2013/?include=406#406) ( [transcript](http://asciiwwdc.com/2013/sessions/406) )
 * [WWDC '13 - **Advanced** Debugging with LLDB](https://developer.apple.com/videos/wwdc/2013/?include=413#413) ( Xcode 5 but relevent ) ( [transcript](http://asciiwwdc.com/2013/sessions/413) )
 * [objc.io - Dancing in the Debugger — A Waltz with LLDB](http://www.objc.io/issue-19/lldb-debugging.html) ( **advanced** ) 
 * [objc.io - Debugging Checklist](http://www.objc.io/issue-19/debugging-checklist.html) ( things to check when your code isn't working )
