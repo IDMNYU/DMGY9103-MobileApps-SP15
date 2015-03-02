@@ -158,6 +158,7 @@ Additional Material:
 
 * [WWDC '14 - Prototyping: Fake It Till You Make It](https://developer.apple.com/videos/wwdc/2014/#223) ( recommended for App Prototype 1 assignment ) ( [transcript](http://asciiwwdc.com/2014/sessions/223) )
 * [How to use Keynote with Font Awesome](https://medium.com/@davidjwoody/photoshop-is-dead-how-to-use-keynote-with-font-awesome-d1570d25f45b) ( A hack for getting quick icons into Keynote )
+* [Prototyping iOS apps with Keynote](http://silkpixels.com/prototyping/) ( hack for getting animated transitions working on keynote for iPhone )
 * [WWDC '14 - **Advanced** Scrollviews and Touch Handling Techniques](https://developer.apple.com/videos/wwdc/2014/?include=235#235) ( [transcript](http://asciiwwdc.com/2014/sessions/235) )
 
 
