@@ -111,7 +111,7 @@ Half the class participation grade (10%) will be based on in class discussion an
 
 * Challenges for the previous week's challenges (this is to give you an opportunity to ask questions about fundamental concepts in class on particularly difficult challenges)
 
-* Additional materials are **not** required reading / watching. Some of the videos or articles are meant to reinforce basic concepts or highlight new technologies in iOS 8, while anything marked **advanced** is meant to go beyond the scope of the course for interested students (and might be useful for your projects)
+* The additional material is **not** required reading / watching. Some of the videos or articles are meant to reinforce basic concepts or highlight new technologies in iOS 8, while anything marked **advanced** is meant to go beyond the scope of the course (but might be useful for projects)
 
 
 
@@ -165,7 +165,7 @@ Additional Material:
 * 14 - Debugging Tools
 * 15 - Introduction to Auto Layout
 
-Additional Materials:
+Additional Material:
 
 * [WWDC '14 - Taking Control of Auto Layout in Xcode 5](https://developer.apple.com/videos/wwdc/2013/?include=406#406) ( [transcript](http://asciiwwdc.com/2013/sessions/406) )
 * [WWDC '13 - **Advanced** Debugging with LLDB](https://developer.apple.com/videos/wwdc/2013/?include=413#413) ( Xcode 5 but relevent ) ( [transcript](http://asciiwwdc.com/2013/sessions/413) )
@@ -178,7 +178,7 @@ Additional Materials:
 * 16 - Auto Layout: Programmatic Constraints
 * 17 - Autorotation, Popover Controllers, and Modal View Controllers
 
-Additional Materials:
+Additional Material:
 
 * [WWDC '14 - A Look Inside Presentation Controllers](https://developer.apple.com/videos/wwdc/2014/?include=228#228) ( Highlights updated UIPopoverPresentationController in iOS8. Rest of the talk is an **advanced** look into custom presented view controllers ) ( [transcript](http://asciiwwdc.com/2014/sessions/228) )
 
@@ -188,7 +188,7 @@ Additional Materials:
 * 19 - Subclassing UITableViewCell
 * **Assignment Due: App Prototype 2**
 
-Additional Materials:
+Additional Material:
 
 * [WWDC '14 - What's New in Table and Collection Views](https://developer.apple.com/videos/wwdc/2014/?include=226#226) ( Cells can now resize automatically using Auto Layout in iOS 8 ) ( [transcript](http://asciiwwdc.com/2014/sessions/226) )
 
@@ -202,7 +202,7 @@ Additional Materials:
 * 24 - State Restoration
 * 26 - NSUserDefaults
 
-Additional Materials:
+Additional Material:
 
 * [WWDC '14 - **Advanced** iOS Application Architecture and Patterns](https://developer.apple.com/videos/wwdc/2014/?include=229#229) ( [transcript](http://asciiwwdc.com/2014/sessions/229) )
 * [objc.io Issue #10 - syncing data](http://www.objc.io/issue-10/) ( **advanced** articles on different approaches to syncing data with remote servers )
