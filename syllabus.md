@@ -167,7 +167,10 @@ Additional Material:
 
 Additional Materials:
 
+* [WWDC '14 - Taking Control of Auto Layout in Xcode 5](https://developer.apple.com/videos/wwdc/2013/?include=406#406) ( [transcript](http://asciiwwdc.com/2013/sessions/406) )
 * [WWDC '13 - **Advanced** Debugging with LLDB](https://developer.apple.com/videos/wwdc/2013/?include=413#413) ( Xcode 5 but relevent ) ( [transcript](http://asciiwwdc.com/2013/sessions/413) )
+* [objc.io - Dancing in the Debugger — A Waltz with LLDB](http://www.objc.io/issue-19/lldb-debugging.html) ( **advanced** ) 
+* [objc.io - Debugging Checklist](http://www.objc.io/issue-19/debugging-checklist.html) ( things to check when your code isn't working )
 
 
 
@@ -201,7 +204,8 @@ Additional Materials:
 
 Additional Materials:
 
-* [**Advanced** iOS Application Architecture and Patterns](https://developer.apple.com/videos/wwdc/2014/?include=229#229) ( [transcript](http://asciiwwdc.com/2014/sessions/229) )
+* [WWDC '14 - **Advanced** iOS Application Architecture and Patterns](https://developer.apple.com/videos/wwdc/2014/?include=229#229) ( [transcript](http://asciiwwdc.com/2014/sessions/229) )
+* [objc.io Issue #10 - syncing data](http://www.objc.io/issue-10/) ( **advanced** articles on different approaches to syncing data with remote servers )
 
 
 ##### 4/22 	UIStoryboard
