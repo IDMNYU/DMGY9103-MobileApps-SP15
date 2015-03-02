@@ -84,11 +84,11 @@ Students will be expected to complete the reading and the complete the accompany
 
 **App Prototype 1** - March 11th, 2015 - 10%
 
-Make a non-functional prototype in order to test out one of your app ideas and get feedback from classmates and potential users. The medium you build in is up to you, but consider using something like Keynote or Powerpoint to be able to quickly work through possible interfaces. You should have at least three different screens of your app represented, but more may be required to describe how it would work.
+Make a non-functional, high-fidelity (realistic looking) prototype in order to test out one of your app ideas and get feedback from classmates and potential users. The medium you build in is up to you, but consider using something like Keynote to be able to quickly work through possible interfaces by collaging screenshots from existing apps. You should have at least three different screens of your app represented.
 
 **App Prototype 2** - April 1st, 2015 - 10%
 
-In teams of up to 2 people, pick one of your initial app prototypes (or choose a new idea) and make a new prototype to explore the idea further. This prototype should have all of your screens represented (4-5 screens or as agreed to with the instructor). In addition, this prototype should allow users to tap through most of the flows of the app.
+In teams of up to 2 people, pick one of your initial app prototypes (or choose a new idea) and make a new prototype to explore the idea further. This prototype should have all of your screens represented (4-5 screens or as agreed to with the instructor). In addition, this prototype should allow users to tap through most of the flows of the app, but can be low-fidelity (paper prototyping or similar medium).
 
 **Final Project** - May 6th, 2015 - 60%
 
@@ -157,6 +157,7 @@ Additional Material:
 Additional Material:
 
 * [WWDC '14 - Prototyping: Fake It Till You Make It](https://developer.apple.com/videos/wwdc/2014/#223) ( recommended for App Prototype 1 assignment ) ( [transcript](http://asciiwwdc.com/2014/sessions/223) )
+* [How to use Keynote with Font Awesome](https://medium.com/@davidjwoody/photoshop-is-dead-how-to-use-keynote-with-font-awesome-d1570d25f45b) ( A hack for getting quick icons into Keynote )
 * [WWDC '14 - **Advanced** Scrollviews and Touch Handling Techniques](https://developer.apple.com/videos/wwdc/2014/?include=235#235) ( [transcript](http://asciiwwdc.com/2014/sessions/235) )
 
 
