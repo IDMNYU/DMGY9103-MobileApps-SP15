@@ -161,8 +161,10 @@ Additional Material:
 * [Prototyping iOS apps with Keynote](http://silkpixels.com/prototyping/) ( hack for getting animated transitions working on keynote for iPhone )
 * [WWDC '14 - **Advanced** Scrollviews and Touch Handling Techniques](https://developer.apple.com/videos/wwdc/2014/?include=235#235) ( [transcript](http://asciiwwdc.com/2014/sessions/235) )
 
+##### 3/18	Spring Break (no class)
+* Enjoy!
 
-##### 3/18 	Auto Layout
+##### 3/25 	Auto Layout
 * 13 - UIGestureRecognizer and UIMenuController
 * 14 - Debugging Tools
 * 15 - Introduction to Auto Layout
@@ -171,12 +173,12 @@ Additional Material:
 
 * [WWDC '13 - Taking Control of Auto Layout in Xcode 5](https://developer.apple.com/videos/wwdc/2013/?include=406#406) ( [transcript](http://asciiwwdc.com/2013/sessions/406) )
 * [WWDC '13 - **Advanced** Debugging with LLDB](https://developer.apple.com/videos/wwdc/2013/?include=413#413) ( Xcode 5 but relevent ) ( [transcript](http://asciiwwdc.com/2013/sessions/413) )
-* [objc.io - Dancing in the Debugger — A Waltz with LLDB](http://www.objc.io/issue-19/lldb-debugging.html) ( **advanced** ) 
+* [objc.io - Dancing in the Debugger — A Waltz with LLDB](http://www.objc.io/issue-19/lldb-debugging.html) ( **advanced** )
 * [objc.io - Debugging Checklist](http://www.objc.io/issue-19/debugging-checklist.html) ( things to check when your code isn't working )
 
 
 
-##### 3/25 	Modal View Controllers
+##### 4/1 	Modal View Controllers
 * 16 - Auto Layout: Programmatic Constraints
 * 17 - Autorotation, Popover Controllers, and Modal View Controllers
 
@@ -185,7 +187,7 @@ Additional Material:
 * [WWDC '14 - A Look Inside Presentation Controllers](https://developer.apple.com/videos/wwdc/2014/?include=228#228) ( Highlights updated UIPopoverPresentationController in iOS8. Rest of the talk is an **advanced** look into custom presented view controllers ) ( [transcript](http://asciiwwdc.com/2014/sessions/228) )
 
 
-##### 4/1 	UITableViewCell
+##### 4/8 	UITableViewCell
 * 18 - Saving, Loading, and Application States
 * 19 - Subclassing UITableViewCell
 * **Assignment Due: App Prototype 2**
@@ -196,11 +198,11 @@ Additional Material:
 
 
 
-##### 4/8 	Saving Data, Part 1
+##### 4/15 	Saving Data, Part 1
 * 21 - Web Services and UIWebView
 * 23 - Core Data
 
-##### 4/15	Saving Data, Part 2
+##### 4/22	Saving Data, Part 2
 * 24 - State Restoration
 * 26 - NSUserDefaults
 
@@ -210,16 +212,14 @@ Additional Material:
 * [objc.io Issue #10 - syncing data](http://www.objc.io/issue-10/) ( **advanced** articles on different approaches to syncing data with remote servers )
 
 
-##### 4/22 	UIStoryboard
+##### 4/29 	UIStoryboard
 * 27 - Controlling Animations
 * 28 - UIStoryboard
 
-##### 4/29 	Localization
-* 25 - Localization
-
-
 ##### 5/6	Final Projects Due - Presentations in Class
 
+
+---------------
 
 Moses Center Statement of Disability
 
