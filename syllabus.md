@@ -86,7 +86,7 @@ Students will be expected to complete the reading and the complete the accompany
 
 Make a non-functional, high-fidelity (realistic looking) prototype in order to test out one of your app ideas and get feedback from classmates and potential users. The medium you build in is up to you, but consider using something like Keynote to be able to quickly work through possible interfaces by collaging screenshots from existing apps. You should have at least three different screens of your app represented.
 
-**App Prototype 2** - April 1st, 2015 - 10%
+**App Prototype 2** - April 8th, 2015 - 10%
 
 In teams of up to 2 people, pick one of your initial app prototypes (or choose a new idea) and make a new prototype to explore the idea further. This prototype should have all of your screens represented (4-5 screens or as agreed to with the instructor). In addition, this prototype should allow users to tap through most of the flows of the app, but can be low-fidelity (paper prototyping or similar medium).
 
