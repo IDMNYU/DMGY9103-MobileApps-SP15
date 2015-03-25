@@ -8,6 +8,7 @@
 * [Sign up for an Apple Developer Account](https://developer.apple.com/register/index.action) if you don't have one
 * Sign up for a github account and [the student developer pack](https://education.github.com/pack)
 * Please fill out [this google form](http://goo.gl/forms/MnKIxzNEFX) with your account information
+* When you have Xcode setup, submit an iPhone or iPad for developer approval [using a different google form](https://docs.google.com/a/nyu.edu/forms/d/1DQdXXo-1ruxAYjuji_6Qd_80z6FP16cq4HTdK9Zr2so/edit)
 * Setup your git repository for textbook work (preferably public)
 
 
