@@ -77,6 +77,12 @@ Apple World Wide Developer Conference Videos:
 * [ASCII WWDC](http://asciiwwdc.com) - searchable video transcripts
 * The [WWDC app for iOS](https://itunes.apple.com/us/app/wwdc/id640199958) lets you download and view WWDC videos on your iPhone or iPad. ( good for the subway )
 
+Tools:
+
+* [POP for iPhone or Android](https://popapp.in) Lightweight Prototyping tool, free for 2 projects
+* [GitX](http://gitx.frim.nl) - visual interface for git
+
+
 
 
 ### Course requirements
